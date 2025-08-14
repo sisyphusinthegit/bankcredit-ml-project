@@ -28,9 +28,9 @@ XGBoost
 
 ### Evaluation
 
-K-Fold Cross Validation
+StratifiedKFold Cross Validation
 Metrics: RMSE (regression), Accuracy & R² (classification)
 
 ### Tools
-Python · scikit-learn · XGBoost · OpenML · pandas · seaborn
+Python · scikit-learn · XGBoost · OpenML · pandas 
 
